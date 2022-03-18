@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiJian", "MaiJian\MaiJian.csproj", "{00A3E973-02E0-406B-8970-ABC1DF237EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A3E973-02E0-406B-8970-ABC1DF237EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A3E973-02E0-406B-8970-ABC1DF237EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A3E973-02E0-406B-8970-ABC1DF237EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A3E973-02E0-406B-8970-ABC1DF237EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683AEFFB-2B9B-42C6-A620-736C0268B646}
+	EndGlobalSection
+EndGlobal
